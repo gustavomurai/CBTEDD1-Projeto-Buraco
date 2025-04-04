@@ -1,5 +1,5 @@
 # **Projeto Buraco**  
-Realizado por **Gustavo Murai**, este projeto implementa um sistema de distribuição de cartas para o jogo de Buraco em **C++**, utilizando **estruturas de dados** para gerenciar um baralho duplo, embaralhamento e distribuição das cartas para os jogadores. O projeto explora conceitos como **vetores, aleatoriedade e manipulação de strings**.  
+Realizado por **Gustavo Murai e Igor Murai**, este projeto implementa um sistema de distribuição de cartas para o jogo de Buraco em **C++**, utilizando **estruturas de dados** para gerenciar um baralho duplo, embaralhamento e distribuição das cartas para os jogadores. O projeto explora conceitos como **vetores, aleatoriedade e manipulação de strings**.  
 
 ---
 
